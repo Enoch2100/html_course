@@ -1,0 +1,26 @@
+ body {
+        font-family: Arial, sans-serif;
+        background-color: #eae5e5;
+    }
+    h1 {
+        color: #1a0b0b;
+    }
+
+
+    a {
+        color:rgb(69, 134, 190);
+    }
+
+    a:visited {
+        color: rgb(150, 138, 180);
+    }
+
+    a:hover, a:active {
+       color: #462929 
+    }
+    table, tr td, caption {
+        border: 1px solid #161212;
+        font-family: 'courier, monospace';
+        border-collapse: collapse;
+        padding: 0.5rem;
+    }
